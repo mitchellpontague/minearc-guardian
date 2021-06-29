@@ -21,7 +21,7 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "ip-address": "^5.8.0",
-    "jquery": "^2.2.3",
+    "jquery": "^3.5.1",
     "libnmap": "^0.2.29",
     "morgan": "~1.6.1",
     "mqtt": "^3.0.0",
