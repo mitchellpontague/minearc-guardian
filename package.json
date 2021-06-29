@@ -23,7 +23,7 @@
     "ip-address": "^5.8.0",
     "jquery": "^2.2.3",
     "libnmap": "^0.2.29",
-    "morgan": "~1.6.1",
+    "morgan": "~1.10.0",
     "mqtt": "^3.0.0",
     "nodemailer": "^2.4.1",
     "pug": "^2.0.0-alpha8",
